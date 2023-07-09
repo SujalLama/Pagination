@@ -1,9 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Paginate from './Paginate';
 
 function App() {
   return (
-    <div></div>
+    <div>
+      <Paginate />
+    </div>
   );
 }
 
